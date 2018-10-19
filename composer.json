@@ -1,0 +1,12 @@
+{
+    "name": "luca/test.local",
+    "authors": [
+        {
+            "name": "Luca Condotta",
+            "email": "luca.condotta@synesthesia.it"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "^4.1"
+    }
+}
